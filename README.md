@@ -29,6 +29,11 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis 
 
+![Método UX](img/Competitive.png) 1.a Empathy Map
+-----
+
+>>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
